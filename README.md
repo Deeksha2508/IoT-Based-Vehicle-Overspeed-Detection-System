@@ -60,3 +60,11 @@ cd IoT-Vehicle-Overspeed-Detection
 - Log data to a cloud dashboard for historical analysis
 - Support multiple lanes with synchronized sensor arrays
 
+## Authors
+
+This project was developed as part of the **IoT Based Systems ** course at **Thapar Institute of Engineering & Technology, Patiala**, Department of Electronics and Communication Engineering .
+
+- **Deeksha Sharma** 
+- **Natasha** 
+
+
